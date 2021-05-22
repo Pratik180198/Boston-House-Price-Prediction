@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: black;
+            text-align: center;
+            padding: 0px;
+        }
+
+        #research {
+            font-size: 18px;
+            width: 100px;
+            height: 23px;
+            top: 23px;
+        }
+
+        #box {
+            border-radius: 60px;
+            border-color: 45px;
+            border-style: solid;
+            font-family: cursive;
+            text-align: center;
+            background-color: rgb(168, 131, 61);
+            font-size: medium;
+            position: absolute;
+            width: 700px;
+            bottom: 9%;
+            height: 850px;
+            right: 30%;
+            padding: 0px;
+            margin: 0px;
+            font-size: 14px;
+        }
+
+        #fuel {
+            width: 83px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 20px;
+        }
+
+        #fuel:hover {
+            background-color: coral;
+        }
+
+        #research {
+            width: 99px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #research:hover {
+            background-color: coral;
+        }
+
+        #resea {
+            width: 99px;
+            height: 43px;
+            text-align: center;
+            border-radius: 14px;
+            font-size: 18px;
+        }
+
+        #resea:hover {
+            background-color: coral;
+        }
+
+        #sub{
+            background:#0066A2;
+            color:white;
+            border-style:outset;
+            border-color:#0066A2;
+            height:50px;
+            width:200px;
+            font:bold 15px arial,sans-serif;
+        }
+
+        #sub:hover {
+            background-color: darkcyan;
+        }
+
+        #fourth{
+            height:30px;
+            width:50px;
+        }
+
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boston House Price Prediction</title>
+</head>
+<body>
+     <div style="color:white">
+        <form action="{{ url_for('predict')}}" method="post">
+            <h1>Boston House Price Prediction</h1>
+
+            <h3>Crime Rate </h3><input id="first" name="CRIM" required="required"><br>
+
+            <br><h3>Proportion of residential land zoned for lots over 25,000 sq.ft.</h3><input id="second" name="ZN" required="required"><br>
+
+            <br><h3>Proportion of non-retail business acres per town (Between 0 to 30)</h3><input id="third" name="INDUS" required="required"><br>
+
+            <br><h3>Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</h3><select name="CHAS" id="fourth"  required="required">
+                <option value="Zero">0</option>
+                <option value="One">1</option>
+            </select><br>
+
+            <br><h3>Nitric oxides concentration (Between 0.3 to 0.9%)</h3><input id="fifth" name="NOX" required="required"><br>
+
+            <br><h3>Number of rooms </h3><input id="six" name="RM" required="required"><br>
+
+            <br><h3>Age (Year's old)</h3><input id="seven" name="AGE" required="required"><br>
+
+            <br><h3>Distances to five Boston employment centres</h3><input id="eight" name="DIS" required="required"><br>
+
+            <br><h3>Property-tax rate per $10,000</h3><input id="nine" name="TAX" required="required"><br>
+
+            <br><h3>Pupil Teacher Ratio</h3><input id="ten" name="PTRATIO" required="required"><br>
+
+            <br><h3>Proportion of blacks by Town</h3><input id="eleven" name="B" required="required"><br>
+
+            <br><h3>Lower atatus of the population</h3><input id="twelve" name="LSTAT" required="required"><br>
+
+            <br><br><button id="sub" type="submit">Calculate the Selling Price</button><br>
+
+        </form>
+
+    </div>
+
+
+
+
+</body>
+</html>
