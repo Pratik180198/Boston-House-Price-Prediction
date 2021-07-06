@@ -13,5 +13,10 @@ Price Prediction ML model.
 ## Demo
 Link: [https://bostonhousepriceml.herokuapp.com/](https://bostonhousepriceml.herokuapp.com/)
 
-![Screenshot](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(65).png)
+## Screenshots
 
+![Screenshot_1](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(65).png)
+
+![Screenshot_2](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(66).png)
+
+![Screenshot_3](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png)
