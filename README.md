@@ -1,4 +1,18 @@
 # Boston-House-Price-Prediction
+
+## Table of Content
+  
+  * [Overview](#overview)
+  * [Demo](#demo)
+  * [Screenshots](#screenshots)
+  * [Installation](#installation)
+  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Bug / Feature Request](#bug---feature-request)
+  * [Technologies Used](#technologies-used)
+  * [Team](#team)
+
+
+## Overview
 Presently, there are manual specialists who examine highlights of a real estate market and gives 
 the expectations, however in some cases it will be correct or wrong along these lines, it makes 
 an enormous issue for the organization, their mistake rates increments, so for this issue there is 
@@ -33,7 +47,7 @@ Set the environment variable on Heroku as mentioned in _STEP 1_ in the __Run__ s
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
-To run the app in a local machine,create a procfile and shoot this command in the project directory:
+_STEP 2_ To run the app in a local machine,create a procfile and shoot this command in the project directory:
 ```bash
 web: gunicorn app:app
 ```
