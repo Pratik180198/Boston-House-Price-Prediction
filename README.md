@@ -58,7 +58,7 @@ The Project Documentation -
 
 [View-Documentation](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Documentation/HP_final%20.pdf) 
 
-[Download - Project Documentation](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Documentation/HP_Chp_1_4(1.3)%20.docx)
+[Download - Project Documentation](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Documentation/HP_Chp_1_4(1.3)%20.docx?raw=true)
 
 ## Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Pratik180198/Boston-House-Price-Prediction/issues/new) by including your search query and the expected result.
