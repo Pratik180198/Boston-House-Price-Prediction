@@ -18,4 +18,4 @@ Link: [https://bostonhousepriceml.herokuapp.com/](https://bostonhousepriceml.her
 
 <a href="url"><img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(66).png" align="right" height="400" width="350" ></a>
 
-<img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png" alt="Your image title" width="350"/>
+[]<img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png" alt="Your image title" width="350"/>
