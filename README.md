@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ## Deployement on Heroku
 Set the environment variable on Heroku as mentioned in _STEP 1_ in the __Run__ section. [[Reference](https://devcenter.heroku.com/articles/config-vars)]
 
+## Team
 ![](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/heroku.png)
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
