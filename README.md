@@ -17,6 +17,6 @@ Link: [https://bostonhousepriceml.herokuapp.com/](https://bostonhousepriceml.her
 <a href="url"><img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(65).png" align="left" height="400" width="350" ></a>
 
 <a href="url"><img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(66).png" align="right" height="400" width="350" ></a>
-<br>
-<a href="url"><img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png" align="center"  width="350" ></a>
+
+<br><a href="url"><img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png"  width="350" ></a>
 
