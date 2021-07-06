@@ -7,7 +7,7 @@
   * [Screenshots](#screenshots)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug / Feature Request](#bug--feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
 
