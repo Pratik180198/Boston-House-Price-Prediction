@@ -20,3 +20,30 @@ Link: [https://bostonhousepriceml.herokuapp.com/](https://bostonhousepriceml.her
 
 ### Predictions
 <img src="https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/Screenshot%20(67).png" alt="Your image title" width="350"/>
+
+## Installation
+The Code is written in Python 3.8. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
+## Deployement on Heroku
+Set the environment variable on Heroku as mentioned in _STEP 1_ in the __Run__ section. [[Reference](https://devcenter.heroku.com/articles/config-vars)]
+
+![](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/heroku.png)
+
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
+To run the app in a local machine,create a procfile and shoot this command in the project directory:
+```bash
+web: gunicorn app:app
+```
+## Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Pratik180198/Boston-House-Price-Prediction/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Pratik180198/Boston-House-Price-Prediction/issues/new). Please include sample queries and their corresponding results.
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org)
