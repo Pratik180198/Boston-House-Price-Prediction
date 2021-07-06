@@ -7,7 +7,7 @@
   * [Screenshots](#screenshots)
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Bug / Feature Request](#bug-/-feature-request)
+  * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
 
@@ -65,6 +65,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-![Pratik Bambulkar][<img target="_blank" src="https://avatars.githubusercontent.com/u/72552513?v=4" width=170>](https://github.com/Pratik180198) |
+[<img target="_blank" src="https://avatars.githubusercontent.com/u/72552513?v=4" width=170>](https://github.com/Pratik180198) |
 -|
+[Pratik Bambulkar](https://github.com/Pratik180198) |)
 
