@@ -42,9 +42,10 @@ The Code is written in Python 3.8. If you don't have Python installed you can fi
 pip install -r requirements.txt
 ```
 ## Deployement on Heroku
-Set the environment variable on Heroku as mentioned in _STEP 1_ in the __Run__ section. [[Reference](https://devcenter.heroku.com/articles/config-vars)]
-
-![](https://github.com/Pratik180198/Boston-House-Price-Prediction/blob/master/Screenshots/heroku.png)
+To deploy this app we are using Heroku Platform. You must first register on [Heroku](https://www.heroku.com/home).
+Create your new app and give the app name and start deploying with the help of Heroku CLI command or connect your Github account.
+After successfull connecting search your application repository and then start your deploying process.
+Once the app is successfully build you can visit your web app.
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
