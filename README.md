@@ -44,12 +44,12 @@ pip install -r requirements.txt
 ## Deployement on Heroku
 To deploy this app we are using Heroku Platform. You must first register on [Heroku](https://www.heroku.com/home).
 Create your new app and give the app name and start deploying with the help of Heroku CLI command or connect your Github account.
-After successfull connecting search your application repository and then start your deploying process.
+After successful connecting search your application repository and then start your deploying process.
 Once the app is successfully build you can visit your web app.
 
 Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
-_STEP 2_ To run the app in a local machine,create a procfile and shoot this command in the project directory:
+To run the app, create a procfile and shoot this command in the project directory:
 ```bash
 web: gunicorn app:app
 ```
